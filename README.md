@@ -19,8 +19,8 @@ The Modular Desktop Fountain can be found on Printables: https://www.printables.
    <li>Open FreeCAD --> open a new file --> "Macro" --> "Macros" --> select the macro --> macro should be executed
   <li>After you executed the macro once, you can find it under "Macro" --> "Recent macros", whith its Shortcut (something like Ctrl + Shift + 1)
    <li>Go into the texteditor (macro file is already open) and change the parameters 
-   <li>Save the changes in the texteditor (usually "Strg + S" should work)
-   <li>Go into FreeCAD and press the keystroke for the recently used macro (usually "Str + Shift + 1")
+   <li>Save the changes in the texteditor (usually "Ctrl + S" should work)
+   <li>Go into FreeCAD and press the keystroke for the recently used macro (usually "Ctrl + Shift + 1")
    <li>This should allow to quickly test various parameters (especially if you have two monitors)
    <li>There might be a better way, but thats the way I wrote and debugged the script
    
