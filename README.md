@@ -17,7 +17,7 @@ The Modular Desktop Fountain can be found on Printables: https://www.printables.
     </ul>
   <li>Open the file (which is already stored in the macro folder) with a texteditor like Atom, Notepad or Notepad++
    <li>Open FreeCAD --> open a new file --> "Macro" --> "Macros" --> select the macro --> macro should be executed
-  <li>After you executed the macro once, you can find it under "Macro" --> "Recent macros", whith its Shortcut (something like Ctrl + Shift + 1)
+  <li>After you executed the macro once, you can find it under "Macro" --> "Recent macros", with its Shortcut (something like Ctrl + Shift + 1)
    <li>Go into the texteditor (macro file is already open) and change the parameters 
    <li>Save the changes in the texteditor (usually "Ctrl + S" should work)
    <li>Go into FreeCAD and press the keystroke for the recently used macro (usually "Ctrl + Shift + 1")
