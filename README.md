@@ -23,5 +23,18 @@ The Modular Desktop Fountain can be found on Printables: https://www.printables.
    <li>Go into FreeCAD and press the keystroke for the recently used macro (usually "Str + Shift + 1")
    <li>This should allow to quickly test various parameters (especially if you have two monitors)
    <li>There might be a better way, but thats the way I wrote and debugged the script
+   
+   <li>Befor you wan't to export the created object, don't forget to add chamfers (if you want them):
+     <ul>
+       <li>this has to be done by hand in FreeCAD
+       <li>switch to "Part" workbench
+       <li>click on the "FinalBase_Refined" (body which is displayed) in the treeView of FreeCAD
+       <li>select "Part" --> "Chamfer"
+       <li>toggle "Select faces"
+       <li>click on the following faces: bottom of the base, bottom of the rim, bottom on the inside
+       <li>click "Ok" --> this might take some time
    </ul>
+   
+   
+   
    
