@@ -49,7 +49,7 @@ The Modular Desktop Fountain can be found on Printables: https://www.printables.
   <li>the hexagons do not have to be adjacent!
   </ul>
   
-![alt text](https://github.com/[TheoBr24]/[Desktop-Fountain-Base-Generator]/blob/[main]/map.png?raw=true)
+![alt text](https://github.com/[TheoBr24]/[Desktop-Fountain-Base-Generator]/blob/[main]/arrange.png?raw=true)
 
 
   
