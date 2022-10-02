@@ -33,7 +33,19 @@ The Modular Desktop Fountain can be found on Printables: https://www.printables.
        <li>toggle "Select faces"
        <li>click on the following faces: bottom of the base, bottom of the rim, bottom on the inside
        <li>click "Ok" --> this might take some time
+     </ul>
+     
+   <li>the shape can be customized by changing the values of arrange
+   <li>a '1' in arange is used to create a hexagon, a '0' is used to create a empty space
+   <li>you can also choose some presets, which can be found at the begining of the code
    </ul>
+
+ Pay Attention to the following:
+ <ul>
+  <li>if you exectue the macro again after you added chamfers, you will have to add them again
+  <li>if you want to use the original baseplates, don't change the wall thickness
+  <li>inspect if all features are located correctly before printing
+  
    
    
    
