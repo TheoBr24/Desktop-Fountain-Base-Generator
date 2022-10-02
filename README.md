@@ -45,6 +45,13 @@ The Modular Desktop Fountain can be found on Printables: https://www.printables.
   <li>if you exectue the macro again after you added chamfers, you will have to add them again
   <li>if you want to use the original baseplates, don't change the wall thickness
   <li>inspect if all features are located correctly before printing
+  <li>a single hexagon will lead to a error, at least two hexagons have to be created (The Fusion Tool needs at least two objects)
+  <li>the hexagons do not have to be adjacent!
+  </ul>
+  
+![alt text](https://github.com/[TheoBr24]/[Desktop-Fountain-Base-Generator]/blob/[main]/map.png?raw=true)
+
+
   
    
    
