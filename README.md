@@ -6,7 +6,7 @@ This python script is intended to be used as a macro in FreeCAD.
 The script can be used to create custom bases for the "Modular Desktop Fountain" by "3D Printy". 
 The Modular Desktop Fountain can be found on Printables: https://www.printables.com/model/239774-modular-desktop-fountain
 
-Recomended use for testing various shapes:
+**__Recomended use for testing various shapes:__**
   <ul>
   <li>Install FreeCAD
   <li>Download the python script from this repository 
