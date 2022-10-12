@@ -48,8 +48,9 @@ The Modular Desktop Fountain can be found on Printables: https://www.printables.
   <li>a single hexagon will lead to a error, at least two hexagons have to be created (The Fusion Tool needs at least two objects)
   <li>the hexagons do not have to be adjacent!
   </ul>
-  
-![arrange](https://user-images.githubusercontent.com/92930771/193452190-0b6a94d9-c955-4fc9-805a-e0e625bbb463.png)
+
+![map](https://user-images.githubusercontent.com/92930771/195440504-4861ae53-7ef7-4400-b6b0-307f11256703.png)
+
 
 
 
